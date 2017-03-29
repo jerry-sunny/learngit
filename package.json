@@ -1,0 +1,22 @@
+{
+  "name": "learngit",
+  "version": "1.0.0",
+  "description": "test git and heroku",
+  "main": "Server.js",
+  "dependencies": {
+    "express": "^4.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerry-sunny/learngit.git"
+  },
+  "author": "jerry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerry-sunny/learngit/issues"
+  },
+  "homepage": "https://github.com/jerry-sunny/learngit#readme"
+}
