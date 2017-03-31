@@ -20,5 +20,5 @@ app.get('/sitemap',function(req,res){
 var lport = process.env.PORT || 3000;
 
 app.listen(lport);
-
+module.exports.getApp=app;
 console.log("Running at Port 3000");
